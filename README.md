@@ -48,4 +48,4 @@ Note the following additional implicit requirements are implemented:
 1. Blank spaces in the input file are not tolerated.
 2. Empty lines in the input file are not tolerated.
 3. Non-zero natural numbers which have any number of leading zeros are not tolerated.
-5. Test input files(inputX.txt) are included with example input, as well as the corresponding output files(outputX.txt), which demostrates the correct and expected output from the program. These can be found in the TestFiles directory.
+5. Test input files(inputX.txt) are included with example input, as well as the corresponding output files(outputX.txt), which demonstrate the correct and expected output from the program. These can be found in the TestFiles directory.
